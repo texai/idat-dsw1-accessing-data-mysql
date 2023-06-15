@@ -4,3 +4,4 @@
 *.nar
 *.ear
 target
+.env
